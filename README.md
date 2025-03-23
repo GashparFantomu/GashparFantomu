@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @GashparFantomu, a noob programmer who creates videos on YouTube and also writes code 
-
+BA-S PE TREN MI-AM DAT TOTI BANII PE CURVE M-AM ASCUNS IN WC VREAU NISTE CIORBA SI NISTE SUC CAND AJUNG *SUNETE DE TREN*
