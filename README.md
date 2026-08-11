@@ -1,1 +1,11 @@
-BA-S PE TREN MI-AM DAT TOTI BANII PE CURVE M-AM ASCUNS IN WC VREAU NISTE CIORBA SI NISTE SUC CAND AJUNG! ***...SUNETE DE TREN***
+<div align="center">
+  
+# Hello, I'm Gashpar Fantomu'
+This is my personal github page (a garage full of scraps) 
+
+<img src="https://tenor.com/view/papyrus-undertale-gif-4973621.gif" width="250" />
+
+# my tools
+[![Skill Icons](https://skillicons.dev/icons?i=js,python,react,git,linux,bash,java)](https://skillicons.dev)
+
+</div>
